@@ -8,6 +8,11 @@ b = 5
 c = 6
 
 # calculate the discriminant
+# calculate the discriminant
+# calculate the discriminant
+# calculate the discriminant
+# calculate the discriminant
+# calculate the discriminant
 d = (b**2) - (4*a*c)
 
 # find two solutions
